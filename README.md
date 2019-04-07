@@ -10,6 +10,8 @@
 
 CQC is a platform which gives you numerous brainstorming sessions so you can test your technical skills 
 <br>
-Made by [Ashish Patel](https://ashish.me)
-
+<br>
+![alt text](./static/screenshot.png "Code Quiz Cafe")
+<br>
+<br>
 [[ website ]](https://codequizcafe.com)&nbsp;&nbsp; [[ blog ]](https://blog.codequizcafe.com)&nbsp;&nbsp; [[ report bugs ]](https://github.com/ashishdotme/codequizcafe.com/issues)
